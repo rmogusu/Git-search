@@ -10,7 +10,7 @@ Git search app is where Users enter a GitHub username into a form,submit it, and
 
 ## screenshot
 
-<img src="" width="1000">
+<img src="../../assets/one.png" width="1000">
 <img src="" width="1000">
 
 ## Installations
@@ -20,7 +20,7 @@ Git search app is where Users enter a GitHub username into a form,submit it, and
 * Angular CLI
 * Typescript
 
-##Setup
+## Setup
 
 Run https://github.com/rmogusu/gitSearch.git
 
@@ -45,11 +45,11 @@ you can also run tests with ng test
 
 ## BDD(Behaviour Driven Development)
 
-*Input username on the form provided a
+* Input username on the form provided a
 
 	Github username, eg (rmogusu) and press search button 
 
-*Outputs	Description
+* Outputs	Description
 
 User data	A specific user profile information.
 Repositories	All repositories created by a user and its descriptions.
