@@ -51,8 +51,8 @@ you can also run tests with ng test
 
 * Outputs	Description
 
-User data	A specific user profile information.
-Repositories	All repositories created by a user and its descriptions.
+* User data	A specific user profile information.
+* Repositories	All repositories created by a user and its descriptions.
 
 
 
