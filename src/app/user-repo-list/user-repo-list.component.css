@@ -1,0 +1,84 @@
+
+.container-full {
+  background-image: url("../../assets/back.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  overflow-x: hidden;
+
+}
+#d{
+  font-family: 'Berkshire Swash', cursive;
+  font-size:18px;
+}
+.jumbotron {
+  border-radius: 0%;
+  background-color: rgba(0, 0, 0, 0.8);
+}
+.footer{
+  margin-top: 0px;
+}
+#gsearch {
+  color: #00FFFF;
+  font-family: 'Berkshire Swash', cursive;
+  font-size: 40px;
+  padding-bottom: 20px;
+}
+.footer {
+  margin-top: 3px;
+  color: white;
+  background-color:#00695c;
+
+
+}
+.card-body {
+  background-color: #00FFFF;
+  border: none;
+  border-radius:0px;
+  font-family: 'Rochester', cursive;
+}
+
+.card-footer {
+  background-color: #008080;
+  color: black;
+  border: none;
+  border-radius:0px;
+  font-family: 'Rochester', cursive;
+  font-size: 25px;
+  border: none;
+  display: flex;
+  justify-content: space-between;
+}
+
+.repo-number {
+  font-size: 40px;
+  font-weight: lighter;
+  font-family: 'Berkshire Swash', cursive;
+}
+
+#repo {
+  color: #00FFFF;
+}
+
+#header {
+  font-family: 'Calligraffitti', cursive;
+  color: white;
+  font-size: 30px;
+}
+
+#des {
+  font-family: 'Rochester', cursive;
+  font-size: 25px;
+}
+#branch {
+  font-family: 'Rochester', cursive;
+}
+
+.card-header {
+  background-color: #008080;
+  border: none;
+  border-radius:0px;
+}
+.card {
+  border: none;
+  border-radius:0px;
+}

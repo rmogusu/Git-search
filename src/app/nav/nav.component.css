@@ -1,0 +1,32 @@
+@import url("https://fonts.googleapis.com/css?family=Berkshire+Swash|Cabin+Sketch|Calligraffitti|Fredericka+the+Great|Leckerli+One|Rochester|Shojumaru&display=swap");
+
+.nav-links {
+  position: relative;
+  right: -70%;
+}
+
+.nav-links li {
+  font-weight: bold;
+  font-family: 'Berkshire Swash', cursive;
+  border-color: white;
+  font-size: 33px;
+  color: white;
+}
+
+.nav-links li:hover {
+  color: aqua;
+}
+
+.logotext {
+  font-family: 'Berkshire Swash', cursive;
+  font-weight: bold;
+  font-size: 1.85em;
+  color: white;
+}
+
+.navbar {
+  background-color: #008080;
+  position: sticky;
+  top: 0;
+  z-index: 1;
+}

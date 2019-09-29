@@ -1,0 +1,29 @@
+.col{
+  padding-top: 40px;
+  padding-bottom:40px;
+}
+#search{
+  border-color:#00FFFF;
+}
+input {
+  background-color: #00FFFF;
+  height: 46px;
+  border-radius:100px;
+  font-family: 'Berkshire Swash', cursive;
+  font-size: 14px;
+  color:#00FFFF;
+}
+.btn{
+  border-radius: 0 20px 20px 0;
+  height: 46px;
+  font-family:'Berkshire Swash', cursive;
+}
+input::placeholder{
+  color: #00FFFF;
+
+}
+input[type=text] {
+  background-color: red;
+  color: #00FFFF;
+  font-family:'Berkshire Swash', cursive;
+}

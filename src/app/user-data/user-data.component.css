@@ -1,0 +1,59 @@
+.container-full {
+  background-image: url("../../assets/bac.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  padding-top: 3px;
+  overflow-x: hidden;
+}
+
+.center {
+  border-radius: 100%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.button {
+  text-align: center;
+  padding-top: 30px;
+}
+
+.heading {
+  display: auto;
+  text-align: center;
+  justify-content: space-between;
+  padding-top: 20px;
+  font-family: 'Berkshire Swash', cursive;
+  font-size:50px;
+
+}
+.login{
+  text-align:center;
+  font-family: 'Berkshire Swash', cursive;
+}
+
+
+
+.jumbotron {
+  background-color: #00FFFF;
+}
+
+@media (max-width: 740px) {
+  hr {
+    height: 0;
+    width: 0;
+  }
+}
+
+.container-full {
+  background-color: rgba(0, 0, 0, 0.0);
+  height: inherit;
+}
+
+.gsearch {
+  font-size: 60px;
+  color: #00FFFF;
+  margin-top: 20px;
+  margin-bottom: 40px;
+  font-family: 'Berkshire Swash', cursive;;
+}
