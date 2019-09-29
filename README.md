@@ -4,7 +4,7 @@ This project was generated with Angular CLI version 8.3.0. its all about git sea
 ## Author
 Rose Mogusu.
 
-##Description
+## Description
 
 Git search app is where Users enter a GitHub username into a form,submit it, and see names and descriptions of that person's public repositories.The  app is developed using Angular CLI ,Bootstrap ,Typescript nodejs and npm .Given is the live link 
 
@@ -15,10 +15,10 @@ Git search app is where Users enter a GitHub username into a form,submit it, and
 
 ## Installations
 
-*nodejs
-*npm
-*Angular CLI
-*Typescript
+* nodejs
+* npm
+* Angular CLI
+* Typescript
 
 ##Setup
 
@@ -27,23 +27,23 @@ Run https://github.com/rmogusu/gitSearch.git
 or download the zip file from github.
 
 After extracting the files, run
-*Open the file with code .
-*cd G-Search
-*ng serve for a dev server
-*Navigate to `http://localhost:4200/ The app will automatically reload 
+* Open the file with code .
+* cd G-Search
+*  ng serve for a dev server
+* Navigate to `http://localhost:4200/ The app will automatically reload 
 
 
 you can also run tests with ng test
 
-##Technologies Used
-*Html5
-*Css3
-*Typescript
-*Bootstrap
-*Angular
-*Github Api's
+## Technologies Used
+* Html5
+* Css3
+* Typescript
+* Bootstrap
+* Angular
+* Github Api's
 
-##BDD(Behaviour Driven Development)
+## BDD(Behaviour Driven Development)
 
 *Input username on the form provided a
 
@@ -56,7 +56,7 @@ Repositories	All repositories created by a user and its descriptions.
 
 
 
-##License
+## License
 MIT License &copy 2019 Rose
 Copyright (c) [2019][G-Search]
 
@@ -66,7 +66,7 @@ The above copyright notice and this permission notice shall be included in all c
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
-##Collaborate
+## Collaborate
 
 To collaborate, reach me on rmogusu123@gmail.com
 
