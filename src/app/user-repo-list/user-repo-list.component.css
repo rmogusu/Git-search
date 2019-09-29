@@ -1,5 +1,5 @@
 
-/* .container-full {
+ .container-full {
   background-image: url("../../assets/back.jpg");
   background-size: cover;
   background-repeat: no-repeat;
@@ -78,7 +78,7 @@
   border: none;
   border-radius:0px;
 }
-.card { */
+.card { 
   border: none;
   border-radius:0px;
 }
