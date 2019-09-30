@@ -8,10 +8,6 @@ Rose Mogusu.
 
 Git search app is where Users enter a GitHub username into a form,submit it, and see names and descriptions of that person's public repositories.The  app is developed using Angular CLI ,Bootstrap ,Typescript nodejs and npm .Given is the live link 
 
-## screenshot
-
-<img src="../../assets/one.png" width="1000">
-<img src="" width="1000">
 
 ## Installations
 
