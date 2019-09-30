@@ -33,4 +33,3 @@ describe('AppComponent', () => {
     expect(compiled.querySelector('.content span').textContent).toContain('moraa app is running!');
   });
 });
-axaxa
