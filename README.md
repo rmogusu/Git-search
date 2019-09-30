@@ -18,7 +18,7 @@ Git search app is where Users enter a GitHub username into a form,submit it, and
 
 ## Setup
 
-Run https://github.com/rmogusu/gitSearch.git
+Run https://github.com/rmogusu/Git-Search.git
 
 or download the zip file from github.
 
