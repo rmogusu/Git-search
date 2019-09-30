@@ -1,7 +1,7 @@
  <div class="container-full">
   <h1 class="text-center" id="gsearch">Git Search Repo</h1>
   <h5 class="text-center repo-number " id="repo">{{myRepo.length}} Repositories found</h5>
-  <app-search-user (searchEmitter)="getRepo($event)"></app-search-user>
+  <app-search-user (searchEmmiter)="getRepo($event)"></app-search-user>
   <div class="container card-columns">
     <div class="card" *ngFor="let repo of myRepo">
       <div class="card-header text-center">

@@ -27,6 +27,7 @@ export class MyServiceService {
       location:string;
       company:string;
       bio:string;
+      searchTerms:string;
      
     }
 

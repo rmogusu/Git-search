@@ -7,5 +7,6 @@ export class GitUser {
   followers: any;
   following: any;
   public_repos: any;
+  searchTerms:any;
   
 }
